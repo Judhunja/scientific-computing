@@ -11,3 +11,5 @@
 ### modular_functions.py
 `-`Calculates the are of triangle, circle and rectangle based on the parameters passed to the function\
 `-`To run it, run ```python3 modular_functions.py``` on your command line
+
+I learnt about python datatypes, control structures: if, else, while loops, and writing code in a modular way within functions

@@ -22,7 +22,7 @@ Print the jupyter document as pdf
 Assignment
 Get data, load it and inspect it
 Write there what you're doing
-Handle missing values and outliers - the data you download has some missing values
+Handle missing values and outliers - the data you download has some missing values eg using mean to fill empty data values
 Compute key statistics about the data
 Generate visualization - histogram, scatter plot, correlation heatmap
 
